@@ -1,0 +1,44 @@
+# Build results
+bin/
+obj/
+out-temp/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+
+# IDE / Editor
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Entity Framework
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# IDE specific files
+.editorconfig.user
